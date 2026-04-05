@@ -1,0 +1,16 @@
+{
+  "mata_kuliah": [
+    {
+      "kode": "KPL101",
+      "nama": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "kode": "PBO102",
+      "nama": "Pemrograman Berbasis Objek"
+    },
+    {
+      "kode": "JRK103",
+      "nama": "Jaringan Komputer"
+    }
+  ]
+}
